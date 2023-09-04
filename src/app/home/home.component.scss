@@ -1,4 +1,11 @@
-
+.mygif{
+    color: transparent;
+    -webkit-background-clip: text;
+    background-image: url('https://i.gifer.com/fyGr.gif');
+    background-size: cover; /* Adjust as needed */
+  background-repeat: no-repeat; /* Adjust as needed */
+  background-position: center;
+}
 
 
 // .myanimation{
